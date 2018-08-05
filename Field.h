@@ -14,10 +14,10 @@ std::string to_string(T val){
 }
 
 struct Cell{
-	int value, shadeDelay, x, y;
-	bool covered, marked;
-	sf::RectangleShape tile;
-	sf::Text text;
+  int value, shadeDelay, x, y;
+  bool covered, marked;
+  sf::RectangleShape tile;
+  sf::Text text;
 };
 
 class Field{
