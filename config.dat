@@ -1,2 +1,4 @@
-WIDTH			HEIGHT			CELL_PXL_SIZE		MINES
-15			15			35			40
+Width: 15 
+Height: 15
+Tile_size_px: 35
+Mines: 40
